@@ -16,7 +16,7 @@ Premissas do caso de uso:
 	o	Acima de 1.500 reais em compras, o revendedor(a) receberá 20% de cashback do valor vendido no período de um mês. 
 
 ======================================================================================================================
-Desenvolvido API básica e implementação do swagger para documentação e testes.
+Desenvolvido API básica, .NET CORE, MySql, EntityFramework e implementação do swagger para documentação e testes.
 
 EndPoint: https://localhost:3000/docs
 
